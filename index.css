@@ -1,0 +1,16 @@
+h1 {
+  color: #ff5533;
+  background-color: black;
+}
+h6 {
+  color: #b0ceff;
+  background-color: black;
+}
+p {
+  color: red;
+  background-color: bisque;
+}
+pre {
+  color: aqua;
+  background-color: black;
+}
