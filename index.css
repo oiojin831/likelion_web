@@ -33,3 +33,13 @@ td {
 th {
   color: blue;
 }
+li {
+  background-color: black;
+}
+
+ul li {
+  color: palevioletred;
+}
+ol li {
+  color: cornflowerblue;
+}
